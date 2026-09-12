@@ -5,6 +5,9 @@ between Telegram channels — built for the case where you and a collaborator
 need to recover/archive content from a channel he administers into your
 own personal/archive channel.
 
+> [!NOTE]
+> *suggesting to use `verify_channel.py`  instead of `forwarder.py`*
+
 ## Features
 - Live terminal UI: progress bar, elapsed time, ETA, running stats
 - **Resumable**: safe to Ctrl+C anytime; re-running picks up where it left off
