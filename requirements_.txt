@@ -1,0 +1,13 @@
+click==8.4.2
+markdown-it-py==4.2.0
+mdurl==0.1.2
+pyaes==1.6.1
+pyasn1==0.6.3
+pyfiglet==1.0.4
+Pygments==2.20.0
+Pyrogram==2.0.106
+PySocks==1.7.1
+rich==15.0.0
+rsa==4.9.1
+Telethon==1.44.0
+TgCrypto==1.2.5
